@@ -1,11 +1,4 @@
 # GhostLink
-
-
-
-/ | | ___ __| |() | ___
-| | | ' \ / _ / | | | |/ _
-| || | | | | / (| || | | /
-_|| |_|_|_|_||_|___|
 There is No Place to Hide
 by Inayat Hussain – Pakistani Security Researcher
 
