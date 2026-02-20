@@ -26,7 +26,7 @@ It also generates **Google & Bing dorks** to help investigators dig deeper.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOURUSERNAME/ghostlink.git
+git clone https://github.com/inayathussain786305/ghostlink.git
 cd ghostlink
 
 2. Install dependencies
